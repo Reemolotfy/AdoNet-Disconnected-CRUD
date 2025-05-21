@@ -3,7 +3,7 @@ A professional implementation of ADO.NET's disconnected model with SqlDataAdapte
 
 # 🏗️ ADO.NET Disconnected CRUD Implementation
 
-![Demo Screenshot](.docs/screenshot.png) 
+![Demo Screenshot](AdoNet-Disconnected-CRUD/docs/screenshot.png) 
 
 practices:
 - ✅ **CRUD operations** (Create, Read, Update, Delete)
